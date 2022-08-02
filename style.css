@@ -1,0 +1,17 @@
+table {
+    border-spacing: 0.6px;
+}
+
+td {content: '';
+    /* display: block; */
+    margin-top: 100%;
+    position: relative;
+    height: 3px;
+    width: 3px;
+    border: 0px;
+}
+
+tr {
+    padding: 0px;
+    margin: 0px;
+}
